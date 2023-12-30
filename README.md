@@ -13,7 +13,7 @@ I'm a Data scientist with a passion for transforming raw data into actionable in
 
 ## 📫 Let's Connect!
 
-- LinkedIn: www.linkedin.com/in/oludare-samuel-7856a1195
+- LinkedIn: www.linkedin.com/in/data-sam
 - Twitter: https://twitter.com/Datapsalm
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
