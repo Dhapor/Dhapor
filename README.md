@@ -1,8 +1,11 @@
-# 👋 Hello, I'm Dhapor!
+# 👋 Hello, I'm Datapsalm!
 
-I'm a Data scientist with a passion for transforming raw data into actionable insights. My journey in the world of data science has been characterized by exploration, learning, and solving complex problems through innovative data-driven solutions.
+## Who is Datapsalm?
 
-## 🔧 Technologies & Tools
+- **Building and Rebuilding: Constantly innovating, creating, and refining to push boundaries and deliver impactful solutions.
+- **Passion and Resilience: Driven by an unwavering passion and the resilience to overcome challenges, always striving for excellence.
+
+## 🔧 Technologies Stacks
 
 - **Programming Languages:** Python
 - **Data Manipulation & Analysis:** Pandas, NumPy, SQL
