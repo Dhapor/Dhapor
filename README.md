@@ -18,6 +18,10 @@
 
 - LinkedIn: www.linkedin.com/in/data-sam
 - Twitter: https://twitter.com/Datapsalm
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
+
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
 
