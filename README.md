@@ -18,7 +18,7 @@
 
 - Email: [datapsalm@gmail.com](mailto:datapsalm@gmail.com)
 - LinkedIn: [www.linkedin.com/in/data-sam](https://www.linkedin.com/in/data-sam/)
-- Twitter: [(https://twitter.com/Datapsalm)](https://twitter.com/yourusername)
+- Twitter: [https://twitter.com/Datapsalm](https://twitter.com/Datapsalm)
 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
