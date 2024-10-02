@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Datapsalm!
 
-## Who is Datapsalm?
+## What do i enjoy doing?
 
 - Building and Rebuilding: Constantly innovating, creating, and refining to push boundaries and deliver impactful solutions.
 - Passion and Resilience: Driven by an unwavering passion and the resilience to overcome challenges, always striving for excellence.
