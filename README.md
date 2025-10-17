@@ -45,7 +45,7 @@
 ## 📫 Let's Connect!
 
 - Email: [datapsalm@gmail.com](mailto:datapsalm@gmail.com)
-- LinkedIn: [www.linkedin.com/in/data-sam](https://www.linkedin.com/in/data-sam/)
+- LinkedIn: [https://www.linkedin.com/in/data-sam/](https://www.linkedin.com/in/datapsalm/)
 - Twitter: [https://twitter.com/Datapsalm](https://twitter.com/Datapsalm)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
